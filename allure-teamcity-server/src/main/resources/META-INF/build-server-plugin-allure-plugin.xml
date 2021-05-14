@@ -5,10 +5,6 @@
 
     <bean class="io.qameta.allure.teamcity.AllureReportBuildSummaryExtension"/>
 
-    <bean class="io.qameta.allure.teamcity.AllureAvailableToolsFetcher"/>
-    <bean class="io.qameta.allure.teamcity.AllureToolProvider"/>
-    <bean class="io.qameta.allure.teamcity.AllureToolType"/>
-
     <bean class="io.qameta.allure.teamcity.AllurePropertiesProvider"/>
     <bean class="io.qameta.allure.teamcity.AllureConstants"/>
 </beans>
